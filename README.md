@@ -71,7 +71,7 @@ Une table calculée `RéponsesInitiales` a été ajoutée pour mesurer les déla
   - Raphaël (5300290)
 
 
-## Questions métiers ouvertes  :
+## Questions métiers ouvertes qui viennent à ma tête lors de l'analyse :
 
 - Doit-on exclure les conversations sans réponse ?
 - La satisfaction CSAT est-elle toujours renseignée ?
